@@ -100,4 +100,4 @@ for number in numbers:
 #tuples
 #tuples are immutable, we can not change the values of tuples
 numbers = (1, 2, 3)
-numbers[0] = 20 #this will give error
+# numbers[0] = 20 #this will give error
